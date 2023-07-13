@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/andydang/dappUniversity/EthDaddy/contracts/ETHDaddy.sol": {
-      "lastModificationDate": 1688211440237,
-      "contentHash": "d902bf18db69fbbef52b6b657a604a35",
+      "lastModificationDate": 1688216802470,
+      "contentHash": "ac98c9c0660cb57cb5b06790fe31604e",
       "sourceName": "contracts/ETHDaddy.sol",
       "solcConfig": {
         "version": "0.8.17",
